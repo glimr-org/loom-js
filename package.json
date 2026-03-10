@@ -1,5 +1,5 @@
 {
-  "name": "glimr-loom",
+  "name": "@glimr/loom",
   "version": "1.0.0",
   "description": "Client runtime for Glimr's Loom template engine",
   "type": "module",

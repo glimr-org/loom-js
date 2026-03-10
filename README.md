@@ -18,14 +18,14 @@ If you'd like to stay updated on Glimr's development, Follow [@migueljarias](htt
 ## Installation
 
 ```sh
-npm install glimr-loom
+npm install @glimr/loom
 ```
 
 Then import it in your `app.ts`:
 
 ```ts
 import "../css/app.css";
-import "glimr-loom";
+import "@glimr/loom";
 ```
 
 The runtime auto-initializes on page load — no setup required.

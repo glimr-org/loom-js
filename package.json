@@ -1,6 +1,6 @@
 {
   "name": "@glimr/loom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Client runtime for Glimr's Loom template engine",
   "type": "module",
   "main": "src/index.ts",

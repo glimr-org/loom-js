@@ -5,7 +5,7 @@ import {
   applyDiff,
   applySubtreeDiff,
   applyListDiff,
-} from "~/live/tree";
+} from "./tree";
 
 // ------------------------------------------------------------- reconstruct
 

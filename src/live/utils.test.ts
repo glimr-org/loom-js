@@ -7,7 +7,7 @@ import {
   parseModifiers,
   restoreFocus,
   saveFocus,
-} from "~/live/utils";
+} from "./utils";
 
 let window: Window;
 let document: Document;

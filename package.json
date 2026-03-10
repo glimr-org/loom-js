@@ -1,0 +1,25 @@
+{
+  "name": "glimr-loom",
+  "version": "1.0.0",
+  "description": "Client runtime for Glimr's Loom template engine",
+  "type": "module",
+  "main": "src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glimr-org/loom-js.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "vite build",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "morphdom": "^2.7.8"
+  },
+  "devDependencies": {
+    "happy-dom": "^20.6.1",
+    "vite": "^6.2.1",
+    "vitest": "^3.0.8"
+  }
+}
